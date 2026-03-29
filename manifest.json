@@ -1,0 +1,18 @@
+{
+  "short_name": "Calculator",
+  "name": "Your Calculator",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2344/2344132.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#0e0e0e",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#c8f135"
+}
+
